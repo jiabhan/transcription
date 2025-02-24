@@ -1,3 +1,4 @@
 models--Systran--faster-distil-whisper-large-v3/
 models--Systran--faster-whisper-large-v3/
 *.log
+.idea/
